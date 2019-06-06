@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0,user-scalable=no"
+    />
+
+    <!-- Start of Baidu Transcode -->
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta name="applicable-device" content="pc,mobile" />
+    <meta name="MobileOptimized" content="width" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta
+      name="mobile-agent"
+      content="format=html5;url=https://www.jianshu.com/p/b7d0d2d6c50e"
+    />
+    <!-- End of Baidu Transcode -->
+    <title>lab2 搜索引擎</title>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+  </head>
+  <div>信息检索课程lab2</div>
+  <div style="color:black;font-size :16px;">请输入你需要搜索的关键字</div>
+  <div>
+    <input placeholder="请输入关键词" /><button
+      class="tf-ui-button emphasis"
+      id="searchbtn"
+    >
+      搜索
+    </button>
+  </div>
+  <div
+    id="result"
+    style="color:black;font-size :16px;text-align: left;padding-left: 200px;padding-top: 30px;"
+  >
+    搜索结果
+  </div>
+
+  <body lang="zh-CN" class="reader-black-font">
+    <script>
+      $("#searchbtn").click(function(e) {
+          let val = $('input')[0].value.trim();
+          
+        $.ajax({
+            method: "GET", // 一般用 POST 或 GET 方法
+            url: "http://127.0.0.1:1024", // 要请求的地址
+            // dataType: "text",// 服务器返回的数据类型，可能是文本 ，音频 视频 script 等浏览 （MIME类型）器会采用不同的方法来解析。
+            data:{ 
+                val:val
+            },
+            success(res){
+                var data = JSON.parse(res);
+                let text = '<div>搜索结果-按照相似度排名</div>';
+                // TODO 在这里加上10个的限制
+                data.forEach(x => {
+                    text += `<div>地址:${x.url}  相似度:${x.similarityval}</div>`;
+                });
+               
+                 $("#result").html(text);
+            },
+            error(err){
+                console.log(err)//请求失败是执行这里的函数
+            }
+        });
+      });
+    </script>
+  </body>
+  <style>
+    body {
+      text-align: center;
+      font-size: 32px;
+      font-weight: bold;
+      color: #666666;
+      margin-top: 100px;
+    }
+    input {
+      width: 700px;
+      height: 50px;
+      border-radius: 30px;
+      border: 2px solid #666666;
+      padding-left: 20px;
+      font-size: 20px;
+      margin-top: 20px;
+    }
+    button {
+      margin-top: 20px;
+      font-size: 20px;
+      margin-left: 20px;
+      width: 100px;
+      height: 50px;
+      border-radius: 10px;
+      background: white;
+      border: 2px solid #666666;
+    }
+  </style>
+</html>

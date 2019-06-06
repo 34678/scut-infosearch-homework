@@ -1,0 +1,83 @@
+TD01
+url:http://www2.scut.edu.cn/io/15862/list.htm  相似度:0.38291139700000004
+TD02
+url:http://news.scut.edu.cn/2019/0602/c41a40013/page.htm  相似度:0.009168750571698114
+url:https://www.scut.edu.cn/new/  相似度:0.0041172567264150944
+url:http://www2.scut.edu.cn/gzic/  相似度:0.009756490949056604
+url:http://news.scut.edu.cn/  相似度:0.00612069390754717
+url:javascript:;  相似度:0.012208657086792453
+url:https://www.scut.edu.cn/new/9018/list.htm  相似度:0.01142028546792453
+url:http://www2.scut.edu.cn/xsg/  相似度:0.06193146127735849
+url:https://www.scut.edu.cn/new/8996/list.htm  相似度:0.10587126726415096
+url:https://www.scut.edu.cn/new/#  相似度:0.004150943354716981
+url:http://sce.scut.edu.cn/  相似度:0.0653535935509434
+url:http://www2.scut.edu.cn/xlzxzx/  相似度:0.030713258316981136
+TD03
+url:https://www.scut.edu.cn/new/2019/0606/c213a15817/page.htm  相似度:0.016826588835294115
+url:https://www.scut.edu.cn/new/  相似度:0.012836153323529411
+url:http://www2.scut.edu.cn/gzic/  相似度:0.0608345899117647
+url:http://news.scut.edu.cn/2019/0530/c44a39995/page.htm  相似度:0.1498452013882353
+url:https://www.scut.edu.cn/new/#  相似度:0.01294117634117647
+url:http://news.scut.edu.cn/44/list.htm  相似度:0.016476034752941175
+url:http://www2.scut.edu.cn/io/tzgg/list.htm  相似度:0.039652629564705874
+url:http://news.scut.edu.cn/2019/0531/c41a40005/page.htm  相似度:0.022559895535294115
+url:https://www.scut.edu.cn/new/main.htm  相似度:0.012836153323529411
+url:http://news.scut.edu.cn/2019/0531/c41a40000/page.htm  相似度:0.018904773088235294
+url:http://news.scut.edu.cn/2019/0604/c41a40019/page.htm  相似度:0.017617938088235294
+TD04
+url:http://news.scut.edu.cn/2019/0605/c41a40033/page.htm  相似度:0.010029840784615385
+url:https://www.scut.edu.cn/new/  相似度:0.008392869480769232
+url:https://www.scut.edu.cn/new/9093/list.htm  相似度:0.009420741211538462
+url:http://news.scut.edu.cn/  相似度:0.012476799351923078
+url:https://www.scut.edu.cn/new/2018/0921/c78a13228/page.htm  相似度:0.017762771611538462
+url:https://www.scut.edu.cn/new/8995/list.htm  相似度:0.012564379384615387
+url:https://www.scut.edu.cn/new/9015/list.htm  相似度:0.012564379384615387
+url:http://news.scut.edu.cn/2019/0528/c44a39978/page.htm  相似度:0.011187130159615385
+url:http://news.scut.edu.cn/2019/0528/c44a39979/page.htm  相似度:0.020566239226923078
+url:https://www.scut.edu.cn/new/#  相似度:0.008461538376923077
+url:http://www2.scut.edu.cn/hr/4287/list.htm  相似度:0.014634736388461538
+TD05
+url:http://news.scut.edu.cn/2019/0604/c41a40029/page.htm  相似度:0.0926290468125
+url:http://www2.scut.edu.cn/shijiuda/  相似度:0.04910714215
+url:http://news.scut.edu.cn/hyagfdjswjglyxsd/list.htm  相似度:0.037162162812499996
+url:https://www.scut.edu.cn/new/#  相似度:0.027499999724999998
+url:https://www.scut.edu.cn/new/  相似度:0.027276825812500002
+url:https://www.scut.edu.cn/new/main.htm  相似度:0.027276825812500002
+url:http://news.scut.edu.cn/41/list.htm  相似度:0.0212429778
+url:http://news.scut.edu.cn/  相似度:0.013516531875000001
+TD06
+url:https://www.scut.edu.cn/new/2019/0606/c213a15817/page.htm  相似度:0.005397207739622641
+url:https://www.scut.edu.cn/new/fwzn/list.htm  相似度:0.005861409171698113
+url:https://www.scut.edu.cn/new/9093/list.htm  相似度:0.01848598275471698
+url:https://www.scut.edu.cn/new/9094/list.htm  相似度:0.02047550562075472
+url:https://www.scut.edu.cn/new/9095/list.htm  相似度:0.02784169362264151
+url:https://www.scut.edu.cn/new/9096/list.htm  相似度:0.025943396309433965
+url:https://www.scut.edu.cn/new/9097/list.htm  相似度:0.03261455528867925
+url:https://www.scut.edu.cn/new/9013/list.htm  相似度:0.021847070528301888
+url:javascript:;  相似度:0.024417314173584906
+url:https://www.scut.edu.cn/new/9016/list.htm  相似度:0.034855249954716984
+url:https://www.scut.edu.cn/new/9017/list.htm  相似度:0.022273354898113207
+TD07
+url:http://news.scut.edu.cn/2019/0601/c41a40008/page.htm  相似度:0.038032374861904764
+url:http://news.scut.edu.cn/  相似度:0.025745776152380953
+url:https://www.scut.edu.cn/new/2019/0531/c77a15761/page.htm  相似度:0.030445996376190478
+url:https://www.scut.edu.cn/new/2019/0606/c76a15821/page.htm  相似度:0.17242607747619046
+url:https://www.scut.edu.cn/new/8996/list.htm  相似度:0.1164713209
+url:https://www.scut.edu.cn/new/9107/list.htm  相似度:0.2750658054047619
+url:https://www.scut.edu.cn/new/9108/list.htm  相似度:0.18195488740000001
+url:http://www2.scut.edu.cn/science/  相似度:0.03340234616190476
+url:http://www2.scut.edu.cn/kz/  相似度:0.02637027328571429
+url:http://www2.scut.edu.cn/io/15862/list.htm  相似度:0.11852019315714286
+url:https://www.scut.edu.cn/new/2019/0606/c76a15822/page.htm  相似度:0.11948650434285714
+TD08
+url:http://news.scut.edu.cn/2019/0602/c41a40012/page.htm  相似度:0.03738722046551724
+url:https://www.scut.edu.cn/new/fwzn/list.htm  相似度:0.0348147492
+url:https://www.scut.edu.cn/new/2017/1228/c78a7697/page.htm  相似度:0.03496436131896552
+url:https://www.scut.edu.cn/new/2018/0911/c78a13129/page.htm  相似度:0.046360153210344826
+url:https://www.scut.edu.cn/new/2018/0921/c78a13228/page.htm  相似度:0.04777573054137931
+url:https://www.scut.edu.cn/new/9095/list.htm  相似度:0.038162321222413795
+url:https://www.scut.edu.cn/new/9096/list.htm  相似度:0.047413793046551723
+url:https://www.scut.edu.cn/new/9097/list.htm  相似度:0.04470443343793103
+url:https://www.scut.edu.cn/new/2018/1204/c78a14417/page.htm  相似度:0.047413793046551723
+url:https://www.scut.edu.cn/new/2019/0115/c78a14864/page.htm  相似度:0.04346264360862069
+url:https://www.scut.edu.cn/new/9016/list.htm  相似度:0.04777573054137931
